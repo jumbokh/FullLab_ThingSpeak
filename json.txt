@@ -1,0 +1,116 @@
+...
+Connected to informatics
+IP address: 192.168.43.3
+Humidity: 62.00%		Temperature: 27.00 C
+GET http://emoncms.org/input/post.json?json={Humidity:62.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 60.00%		Temperature: 27.00 C
+			GET http://emoncms.org/input/post.json?json={Humidity:60.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+	https://emoncms.org/feed/insert.json?id=0&Humidity=60&Temperature=27
+	
+	OnlineHnT-Chart.ino
+......
+Connected to informatics
+IP address: 192.168.43.3
+Humidity: 64.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:64.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 64.00%		Temperature: 29.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:64.00, Temperature:29.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 64.00%		Temperature: 29.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:64.00, Temperature:29.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 66.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:66.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 65.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:65.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 66.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:66.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 65.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:65.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+
+
+Data sent to Emoncms
+Humidity: 61.00%		Temperature: 28.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:61.00, Temperature:28.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 61.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:61.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 60.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:60.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 60.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:60.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+Data sent to Emoncms
+Humidity: 62.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:62.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 61.00%		Temperature: 28.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:61.00, Temperature:28.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 61.00%		Temperature: 28.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:61.00, Temperature:28.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 67.00%		Temperature: 28.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:67.00, Temperature:28.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
+
+
+Data sent to Emoncms
+Humidity: 60.00%		Temperature: 27.00 C
+	GET http://emoncms.org/input/post.json?json={Humidity:60.00, Temperature:27.00}&apikey=a998c3c3335a0b727278fbce03d92744
+Connection: close
